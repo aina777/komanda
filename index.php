@@ -10,7 +10,9 @@
 
 <?php include "header.php"; ?>
 
-<h1>Pagrindinis</h1>
+<h1>Saulės sistema</h1>
+
+<img src="images/foto1.jpg">
 	 
 
 
