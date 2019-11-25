@@ -14,9 +14,12 @@
 	 
 
 
-
+ 
+<?php include "footer_1.php"; ?>
 
 <?php include "footer.php"; ?>
+
+
 	
 </body>
 </html>
