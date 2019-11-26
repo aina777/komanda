@@ -22,7 +22,7 @@ color: white;  }
 .klase2 {background-color: black;
 color: white;  }
 
-.nav-wrapper {
+nav {
 	background: #0d47a1;
 }
 
@@ -45,3 +45,4 @@ color: white;  }
 	width: 33.333%;
 	padding: 15px;
 }
+
