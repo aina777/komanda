@@ -18,9 +18,15 @@
 }
 
 .klase1 {background-color: black;
-color: white;  }
+color: white;
+margin: 0;
+text-align: center;  }
 .klase2 {background-color: black;
-color: white;  }
+color: white;}
+.klase2 img	{height: 200px;
+width: 200px;}
+.merc img{position: absolute;}
+{position: static;}
 
 .nav-wrapper {
 	background: #0d47a1;
