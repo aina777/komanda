@@ -12,7 +12,7 @@
 
 
 <div>
-	<h1>Struktūra ir kontaktai</h1>
+	<h1 class="dovi">Struktūra ir kontaktai</h1>
 
   <div class="row">
   	<div class = "dovile">
@@ -49,7 +49,7 @@
 <h5 class="instagram">FOLLOW US ON INSTAGRAM</h5>
 
 <div class="insta" >
- <img class="pic" src="https://picsum.photos/800/200">
+ <img class="pictas" src="https://picsum.photos/800/200">
  <h6>@KOSMOSASVISATOJE</h6>
 </div>
 
