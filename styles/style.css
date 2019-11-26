@@ -45,3 +45,58 @@ color: white;  }
 	width: 33.333%;
 	padding: 15px;
 }
+
+.dovile{
+	text-align: center;
+	color: #37474f;
+	font-style: italic;
+	font-weight: bold;
+	background-color: #263238;
+	padding: 50px;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1{
+	text-align: center;
+	color: #607d8b;
+}
+
+.belekas{
+	background-color: #cfd8dc;
+}
+
+.map{
+	padding: 50px;
+}
+
+.adresas{
+	font-weight: bold;
+	color: black;
+	padding: 50px;
+}
+
+.instagram{
+	text-align: center;
+	color: black;
+	font-style: italic;
+}
+
+.insta{
+	position: relative; 
+
+}
+
+.insta h6{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	margin: 0;
+	font-weight: bold;
+}
+
+.pic{
+	width: 100%;
+}
