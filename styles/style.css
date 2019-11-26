@@ -22,7 +22,7 @@ color: white;  }
 .klase2 {background-color: black;
 color: white;  }
 
-.nav-wrapper {
+nav {
 	background: #0d47a1;
 }
 
@@ -46,6 +46,7 @@ color: white;  }
 	padding: 15px;
 }
 
+
 .dovile{
 	text-align: center;
 	color: #37474f;
@@ -58,10 +59,10 @@ color: white;  }
 	margin-right: auto;
 }
 
-h1{
+/*h1{
 	text-align: center;
 	color: #607d8b;
-}
+}*/
 
 .belekas{
 	background-color: #cfd8dc;
@@ -97,6 +98,7 @@ h1{
 	font-weight: bold;
 }
 
-.pic{
+.pictas{
 	width: 100%;
 }
+
