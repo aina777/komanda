@@ -62,7 +62,99 @@ width: 450px;
 }
 
 .klase1 {background-color: black;
-color: white;  }
+color: white;
+margin: 0;
+text-align: center;  }
 .klase2 {background-color: black;
-color: white;  }
+color: white;}
+.klase2 img	{height: 200px;
+width: 200px;}
+.merc img{position: absolute;}
+{position: static;}
 
+nav {
+	background: #0d47a1;
+}
+
+.page-footer {
+	background: #0d47a1;
+}
+
+.konteineris {
+	display: flex;
+	max-width: 900px;
+	border: 3px solid #bbbbbb;
+	padding: 25px;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.aina1{
+	text-align: center;
+	width: 33.333%;
+	padding: 15px;
+}
+
+
+.dovile{
+	text-align: center;
+	color: #37474f;
+	font-style: italic;
+	font-weight: bold;
+	background-color: #263238;
+	padding: 50px;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*h1{
+	text-align: center;
+	color: #607d8b;
+}*/
+
+.belekas{
+	background-color: #cfd8dc;
+}
+
+.map{
+	padding: 50px;
+}
+
+.adresas{
+	font-weight: bold;
+	color: black;
+	padding: 50px;
+}
+
+.instagram{
+	padding: 50px;
+	text-align: center;
+	color: black;
+	font-style: italic;
+}
+
+.insta{
+	position: relative; 
+
+}
+
+.insta h6{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	margin: 0;
+	font-weight: bold;
+}
+
+.pictas{
+	width: 100%;
+}
+
+.dovi{
+	text-align: center;
+	color: #37474f;
+	font-weight: bold;
+}

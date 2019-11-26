@@ -1,3 +1,4 @@
+
 console.log("Hello, since you came here, be kind enough to leave a comment and a rating");
 
 
@@ -16,3 +17,10 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+
+$(document).ready(function(){
+    $('.sidenav').sidenav();
+  });
+
+ $('.dropdown-trigger').dropdown();
+
