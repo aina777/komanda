@@ -78,12 +78,21 @@
 
 
 
+  </nav>
 
 	<br>
 	<?php include "footer_1.php"; ?>
 
 	<?php include "footer.php"; ?>
-
+	
+ <ul class="pagination">
+    <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
+    <li class="active blue"><a href="http://localhost/komanda/planeta1.php">1</a></li>
+    <li class="waves-effect"><a href="http://localhost/komanda/planetos.php">2</a></li>
+    <li class="waves-effect"><a href="#!">3</a></li>
+    <li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
+  </ul>
+            
 
 
 </body>
