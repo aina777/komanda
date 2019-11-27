@@ -13,6 +13,15 @@
 	<div class="container">
 		<h1>Saulės sistema</h1>
 
+		<div class="forma">
+			<form action="/action_page.php">
+				First name:<br>
+				<input type="text" name="firstname" value="Mickey"><br>
+				Last name:<br>
+				<input type="text" name="lastname" value="Mouse"><br><br>
+				<input type="submit" value="Submit">
+			</form>
+		</div>
 
 		<div class="col s12 m7">
 			<div class="card horizontal">
