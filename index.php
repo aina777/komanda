@@ -14,12 +14,13 @@
 		<h1>Saulės sistema</h1>
 
 		<div class="forma">
+			<h6>Registracija</h6>
 			<form action="/action_page.php">
-				First name:<br>
-				<input type="text" name="firstname" value="Mickey"><br>
-				Last name:<br>
-				<input type="text" name="lastname" value="Mouse"><br><br>
-				<input type="submit" value="Submit">
+				Vardas:<br>
+				<input type="text" name="firstname" value=""><br>
+				Pavardė:<br>
+				<input type="text" name="lastname" value=""><br><br>
+				<input type="submit" value="Patvirtinti">
 			</form>
 		</div>
 

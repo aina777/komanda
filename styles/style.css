@@ -1,9 +1,9 @@
 
 
-
 .forma {
-	border-width: 200px;
-	box-sizing: 20%;
+	position: fixed;
+	bottom: top;
+	right: 0px;
 }
 
 .thisbutton {
