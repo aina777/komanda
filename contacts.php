@@ -54,26 +54,20 @@
 </div>
 
 
-<!-- <div class="row">
-    <div class="col s12 m10 l8 width">
-    	<p>Mus rasite adresu:</p>
-    	<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2304.983423849861!2d25.29012821534312!3d54.70991477940253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd96ae1dedd637%3A0x73978617430c730c!2sUlon%C5%B3%20g.%205%2C%20Vilnius%2008240!5e0!3m2!1slt!2slt!4v1574788973275!5m2!1slt!2slt" width="1000" height="500" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+<div class="row">
+	<div class="blokas">
+    	<div class="col s12 l4">
+    		<p>Mus rasite adresu: Vilnius, Ulonų g. 5, LT-07160 <br>Darbo laikas: I-V 10-19 
+    		<br>Telefonas +370 6555 5555 <br>El. paštas visiskasKosmosas@gmail.com</p> 
+    	</div>
+
+		<div class="col s12 l8">
+    		<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2304.983423849861!2d25.29012821534312!3d54.70991477940253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd96ae1dedd637%3A0x73978617430c730c!2sUlon%C5%B3%20g.%205%2C%20Vilnius%2008240!5e0!3m2!1slt!2slt!4v1574788973275!5m2!1slt!2slt" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+    	</div>
     </div>
-</div> -->
-
-
-
-<div class="adresas">
-
-   
-
-	<!-- <iframe class="map" style="position:relative; top: 0px; left: 250px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2304.983423849861!2d25.29012821534312!3d54.70991477940253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd96ae1dedd637%3A0x73978617430c730c!2sUlon%C5%B3%20g.%205%2C%20Vilnius%2008240!5e0!3m2!1slt!2slt!4v1574788973275!5m2!1slt!2slt" width="1000" height="500" frameborder="0" style="border:0;" allowfullscreen=""></iframe> -->
-
-	<iframe class="map" style="vertical-align: right;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2304.983423849861!2d25.29012821534312!3d54.70991477940253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd96ae1dedd637%3A0x73978617430c730c!2sUlon%C5%B3%20g.%205%2C%20Vilnius%2008240!5e0!3m2!1slt!2slt!4v1574788973275!5m2!1slt!2slt" width="1000" height="500" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-	<span style = ""> Mus rasite adresu: </span>
-	<span style = ""> Ulonų g. 5, Vilnius </span>
-
 </div>
+
 
 
 <?php include "footer_1.php"; ?>

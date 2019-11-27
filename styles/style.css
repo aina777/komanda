@@ -1,20 +1,77 @@
 
+/* DELJO PAKLAUST AR JIS NK NEGADINS TOKS BUDAMAS*/
+.thisbutton {
+    
+    color: white;
+    background-color: red;
+
+}
+
+.carousel {
+ position: center;
+}
+
+.carousel .carousel-item{
+	width: 500px;
+	height: 500px;
+}
+
+.collapsible:hover {
+  background-color: white;
+}
+
+.collapsible {
+  background-color: green;
+  color: black;
+  cursor: pointer;
+  padding: 18px;
+  width: 15%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+}
+
+.content {
+	background-image: url("https://www.desktopbackground.org/p/2011/05/28/210217_sea-on-mars-wallpaper_1920x1080_h.jpg");
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: red;
+}
+
+.marsiukas {
+  background-image: url("https://www.desktopbackground.org/p/2011/05/28/210217_sea-on-mars-wallpaper_1920x1080_h.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.marsas {
+height: 300px;
+width: 300px;
+border-radius: 50%;
+}
 
 .thetwo	{
 	color: white;
-	background-color: black;
+	/*background-color: black;*/
 	text-align: center;
+}
+
+.theone:hover	{
+	color: white;
 }
 
 .theone	{
-	color: red;
-	background-color: black;
+	color: #ff1744;
+	/*background-color: black;*/
 	text-align: center;
+	background-image: url("https://www.syfy.com/sites/syfy/files/styles/1200x680/public/wire/legacy/Red-Planet-header.jpg");
 }
 
 .mars {
-	max-width: 100%;
-	max-height: 10%;
+	width: 100%;
+	height: 200px;
 }
 
 .audio {background-color: black;
@@ -85,6 +142,12 @@ nav {
 }
 
 .map{
+	padding: 20px;
+	width: 100%;
+	height: 400px ;
+}
+
+.blokas{
 	padding: 50px;
 }
 
