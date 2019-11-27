@@ -5,16 +5,28 @@
 	
 	<?php include "head.php"; ?>
 
+ 
 
 </head>
 <body class="marsiukas">
 
+
 <?php include "header.php"; ?>
 
-<h1 class="theone">The Red Planet - Mars</h1>
-	 
+<div class="container">
 
-<img class="mars" src="images/mars2.jpg">
+<h1 class="theone">The Red Planet - Mars</h1>
+
+<div class="carousel">
+    <a class="carousel-item" href="#one!"><img src="images/mars1.jpg"></a>
+    <a class="carousel-item" href="#two!"><img src="images/mars7.jpg"></a>
+    <a class="carousel-item" href="#three!"><img src="images/mars3.jpg"></a>
+    <a class="carousel-item" href="#four!"><img src="images/mars4.jpg"></a>
+    <a class="carousel-item" href="#five!"><img src="images/mars5.jpg"></a>
+ </div>
+
+
+<!-- <img class="mars" src="images/mars2.jpg"> -->
 
 <div class="thetwo">
 
@@ -25,14 +37,14 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<button type="button" class="collapsible">Open Collapsible</button>
+<button type="button" class="collapsible">Click me</button>
 <div class="content">
-  <p><img src="https://i.kym-cdn.com/photos/images/original/000/296/751/f97.jpg"></p>
+  <p><img src="images/marscat.jpg"></p>
 </div>
  
     <div class="row">
 
-      <div class="col s4">
+      <div class="col s12 m12 l4">
       	<a target="_blank" href="https://nineplanets.org/mars/">
       	<img class="marsas" src="images/mars3.jpg">
       	</a>
@@ -46,8 +58,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <a target="_blank" class="waves-effect waves-light btn" href="https://nineplanets.org/mars/"><i class="material-icons left">search</i>Do you wanna know more?</a>
 
       </div>
-      <div class="col s4">
-      	<a href="https://www.nationalgeographic.com/science/space/space-exploration/mars-exploration-article/">
+      <div class="col s12 m12 l4">
+      	<a target="_blank" href="https://www.nationalgeographic.com/science/space/space-exploration/mars-exploration-article/">
       	<img class="marsas" src="images/mars4.jpg">
       	</a>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -57,11 +69,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-        <a target="_blank" class="waves-effect waves-light btn" href="https://www.nationalgeographic.com/science/space/space-exploration/mars-exploration-article/"><i class="material-icons left">search</i>Do you wanna know more?</a>
+        <a target="_blank" class="waves-effect waves-light btn thisbutton" href="https://www.nationalgeographic.com/science/space/space-exploration/mars-exploration-article/"><i class="material-icons left">search</i>Do you wanna know more?</a>
 
       </div>
-      <div class="col s4">
-      	<a href="https://mars.nasa.gov/mars-exploration/missions/mars2020/">
+      <div class="col s12 m12 l4">
+      	<a target="_blank" href="https://mars.nasa.gov/mars-exploration/missions/mars2020/">
       	<img class="marsas" src="images/mars5.jpg">
       	</a>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -70,13 +82,13 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <a target="_blank" class="waves-effect waves-light btn" href="https://mars.nasa.gov/mars-exploration/missions/mars2020/"><i class="material-icons left">search</i>Do you wanna know more?</a>
+        <a target="_blank" class="waves-effect waves-light btn orange green-text" href="https://mars.nasa.gov/mars-exploration/missions/mars2020/"><i class="material-icons left">search</i>Do you wanna know more?</a>
       </div>
 
     </div>
 
 </div>
-
+</div> 
 <!-- <div class="row">
     <div class="col s12 red"><p>s12</p></div>
     <div class="col s12 m4 l2 yellow"><p>s12 m4</p></div>
@@ -98,6 +110,5 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <?php include "footer.php"; ?>
 
 
-	
 </body>
 </html>

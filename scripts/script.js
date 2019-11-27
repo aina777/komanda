@@ -24,3 +24,17 @@ $(document).ready(function(){
 
  $('.dropdown-trigger').dropdown();
 
+
+
+ $(document).ready(function(){
+    $('.carousel').carousel({fullWidth: true});
+  });
+
+ // $('.carousel.carousel-item').carousel({
+ //    fullWidth: true
+ //  });
+
+var instance = M.Carousel.getInstance(elem);
+
+instance.next();
+instance.prev();
