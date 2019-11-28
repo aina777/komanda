@@ -1,7 +1,11 @@
+.card-image{
+	vertical-align: center;
+}
+
 .ivertinimas{
 	position: fixed;
 	bottom: 45px;
-	right: 25px;
+	right: 10px;
 }
 
 .aina2 {
@@ -13,7 +17,7 @@
 .forma {
 	position: fixed;
 	top: 100px;
-	right: 0px;
+	right: 10px;
 }
 
 .thisbutton {
