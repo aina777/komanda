@@ -62,6 +62,9 @@
     		<div class="col s12 l4">
     			<p>Mus rasite adresu: Vilnius, Ulonų g. 5, LT-07160 <br>Darbo laikas: I-V 10-19 
     			<br>Telefonas +370 6555 5555 <br>El. paštas visiskasKosmosas@gmail.com</p> 
+    			 <div class="video-container">
+        				<iframe width="853" height="480" src="https://www.youtube.com/embed/y4nMYQhC6KA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     			 </div>
     		</div>
 		<div class="col s12 l8">
     		<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2304.983423849861!2d25.29012821534312!3d54.70991477940253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd96ae1dedd637%3A0x73978617430c730c!2sUlon%C5%B3%20g.%205%2C%20Vilnius%2008240!5e0!3m2!1slt!2slt!4v1574788973275!5m2!1slt!2slt" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
