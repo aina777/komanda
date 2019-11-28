@@ -74,24 +74,31 @@ border-radius: 50%;
 	height: 200px;
 }
 
-.audio {background-color: black;
-	max-width: 100%;}
-.klase1 {background-color: black;
-color: white;
+
+.klase1 {
+	background-color:yellow;
+	color: white;
+  text-shadow: 4px 4px 8px #000000;
 margin: 0;
 text-align: center; }
-.klase2 {background-color: black;
-color: white;
+.klase2 {background-image: linear-gradient(yellow, black);
+color: black;
 text-align: left;
 width: 100%;
-	height: 100%;
-  border: dotted;
+	height: 100%;  
   padding: 50px;
   margin: 0px;}
+
 .klase2 img	{height: 200px;
 width: 200px;
-}
+border-radius: 50% }
 .klase2 p {width: 200px;}
+.audio{animation-name: example;
+  animation-duration: 4s;
+	position:fixed;
+bottom: 0px;
+right: 0px; }
+
 
 
 
