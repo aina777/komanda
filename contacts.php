@@ -17,28 +17,28 @@
   <div class="row">
   	<div class = "dovile">
     <div class="col s12 m6 l3"> 
-		<img src="https://picsum.photos/200" alt="" class="circle responsive-img">
+		<img src="images/kosmonautas2.jpg" alt="" class="circle responsive-img">
 		<h5>Direktorius </h5> 
 		<h6>Rokas Gervinskas</h6>
 		<p>Kontaktinis tel. +3706*******. <br> Elektronis paštas *****@gmail.com</p>
 	</div>
 
     <div class="col s12 m6 l3">
-    	<img src="https://picsum.photos/200" alt="" class="circle responsive-img">
+    	<img src="images/aina2.jpg" alt="" class="circle responsive-img">
 		<h5>Komunikacijos vadovė </h5>
-		<h6>Aina Jonuskytė</h6>
+		<h6>Aina Jonuškytė</h6>
 		<p>Kontaktinis tel. +3706*******. <br> Elektronis paštas *****@gmail.com</p>
     </div>
 
      <div class="col s12 m6 l3">
-    	<img src="https://picsum.photos/200" alt="" class="circle responsive-img">
+    	<img src="images/kosmonautas.jpg" alt="" class="circle responsive-img">
 		<h5>Kosmonautas </h5> 
 		<h6>Nerijus Bauras</h6>
 		<p>Kontaktinis tel. +3706*******. <br> Elektronis paštas *****@gmail.com</p>
     </div>
 
      <div class="col s12 m6 l3">
-    	<img src="https://picsum.photos/200" alt="" class="circle responsive-img">
+    	<img src="images/specialiste.jpg" alt="" class="circle responsive-img">
 		<h5>Kosmoso specialistė </h5> 
 		<h6>Dovilė Rimkutė </h6>
 		<p>Kontaktinis tel. +3706*******. <br> Elektronis paštas *****@gmail.com</p>
@@ -46,11 +46,13 @@
    </div>
 </div>
 
+<a target="_blank" href="https://www.instagram.com/">
 <h5 class="instagram">FOLLOW US ON INSTAGRAM</h5>
+</a>
 
 <div class="insta" >
- <img class="pictas" src="https://picsum.photos/800/200">
- <h5>@KOSMOSASVISATOJE</h5>
+ <img class="pictas" src="images/galaktika.jpg">
+ <h5 class="#cfd8dc-text">@KOSMOSASVISATOJE</h5>
 </div>
 
 
