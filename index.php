@@ -13,6 +13,43 @@
 	<div class="container">
 		<h1>Saulės sistema</h1>
 
+		<div class="forma">
+			<h6 class="aina2">Registracija <br>
+				skrydžiams į <br>
+			kosmosą</h6>
+			<form action="">  <!-- /action_page.php -->
+				Vardas:<br>
+				<input type="text" name="firstname" value=""><br>
+				Pavardė:<br>
+				<input type="text" name="lastname" value=""><br><br>
+				<input type="submit" value="Patvirtinti">
+			</form>
+		</div>
+
+		<div class="ivertinimas">
+			<h6 class="aina2">Svetainės įvertinimas</h6>
+			<form action="#">
+				<p>
+					<label>
+						<input type="checkbox" />
+						<span>Puiku</span>
+					</label>
+				</p>
+				<p>
+					<label>
+						<input type="checkbox" />
+						<span>Labai gerai</span>
+					</label>
+				</p>
+				<p>
+					<label>
+						<input type="checkbox" />
+						<span>Gerai</span>
+					</label>
+				</p>
+			</form>
+		</div>
+
 
 		<div class="col s12 m7">
 			<div class="card horizontal">
@@ -35,7 +72,7 @@
 						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>					
 					</div>
 					<div class="card-action">
-						<a class= "blue-text" target="_blank" href="https://google.com">VISATA</a>		
+						<a class= "blue-text" target="_blank" href="https://lt.wikipedia.org/wiki/Visata">VISATA</a>		
 					</div>
 				</div>
 			</div>
@@ -49,7 +86,7 @@
 				<h5>Žvaigždės</h5>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-				<a class="waves-effect waves-light btn blue" target="_blank" href="https://google.com"><i class="material-icons left">flare</i>Žvaigždės</a>
+				<a class="waves-effect waves-light btn blue" target="_blank" href="https://lt.wikipedia.org/wiki/%C5%BDvaig%C5%BEd%C4%97"><i class="material-icons left">flare</i>Žvaigždės</a>
 			</div>
 
 			<div class="aina1">
@@ -57,7 +94,7 @@
 				<h5>Planetos</h5>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-				<a class="waves-effect waves-light btn blue" target="_blank" href="https://google.com"><i class="material-icons left">nature_people</i>Planetos</a>
+				<a class="waves-effect waves-light btn blue" target="_blank" href="https://lt.wikipedia.org/wiki/Planeta"><i class="material-icons left">nature_people</i>Planetos</a>
 			</div>
 
 			<div class="aina1">
@@ -65,7 +102,7 @@
 				<h5>Palydovai</h5>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-				<a class="waves-effect waves-light btn blue" target="_blank" href="https://google.com"><i class="material-icons left">leak_add</i>Palydovai</a>
+				<a class="waves-effect waves-light btn blue" target="_blank" href="https://lt.wikipedia.org/wiki/Palydovas"><i class="material-icons left">leak_add</i>Palydovai</a>
 			</div>
 
 		</div>
@@ -74,20 +111,19 @@
 
 
 
-
-
 	<?php include "footer_1.php"; ?>
 
 	<?php include "footer.php"; ?>
-	
-	<!-- <ul class="pagination">
+
+	 <ul class="pagination">
 		<li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
-		<li class="active blue"><a href="http://localhost/komanda/planeta1.php">1</a></li>
-		<li class="waves-effect"><a href="http://localhost/komanda/planetos.php">2</a></li>
-		<li class="waves-effect"><a href="http://localhost/komanda/contacts.php">3</a></li>
+		<li class="active blue"><a href="http://localhost/komanda/index.php">1</a></li>
+		<li class="waves-effect"><a href="http://localhost/komanda/planeta1.php">2</a></li>
+		<li class="waves-effect"><a href="http://localhost/komanda/planetos.php">3</a></li>
+		<li class="waves-effect"><a href="http://localhost/komanda/contacts.php">4</a></li>
 		<li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
 	</ul>
--->
+
 
 
 </body>
