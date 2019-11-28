@@ -14,8 +14,10 @@
 		<h1>Saulės sistema</h1>
 
 		<div class="forma">
-			<h6>Registracija</h6>
-			<form action="/action_page.php">
+			<h6 class="aina2">Registracija <br>
+				skrydžiams į <br>
+			kosmosą</h6>
+			<form action="">  <!-- /action_page.php -->
 				Vardas:<br>
 				<input type="text" name="firstname" value=""><br>
 				Pavardė:<br>
@@ -23,6 +25,31 @@
 				<input type="submit" value="Patvirtinti">
 			</form>
 		</div>
+
+		<div class="ivertinimas">
+			<h6 class="aina2">Svetainės įvertinimas</h6>
+			<form action="#">
+				<p>
+					<label>
+						<input type="checkbox" />
+						<span>Puiku</span>
+					</label>
+				</p>
+				<p>
+					<label>
+						<input type="checkbox" />
+						<span>Labai gerai</span>
+					</label>
+				</p>
+				<p>
+					<label>
+						<input type="checkbox" />
+						<span>Gerai</span>
+					</label>
+				</p>
+			</form>
+		</div>
+
 
 		<div class="col s12 m7">
 			<div class="card horizontal">
@@ -89,7 +116,7 @@
 	<?php include "footer_1.php"; ?>
 
 	<?php include "footer.php"; ?>
-	
+
 	<!-- <ul class="pagination">
 		<li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
 		<li class="active blue"><a href="http://localhost/komanda/planeta1.php">1</a></li>

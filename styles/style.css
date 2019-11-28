@@ -1,8 +1,18 @@
+.ivertinimas{
+	position: fixed;
+	bottom: 45px;
+	right: 25px;
+}
 
+.aina2 {
+	color: #7986cb;
+	font-style: italic;	
+	font-weight: bold;
+}
 
 .forma {
 	position: fixed;
-	bottom: top;
+	top: 100px;
 	right: 0px;
 }
 
