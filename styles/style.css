@@ -1,7 +1,14 @@
+.card-image{
+	vertical-align: center;
+}
+
 .ivertinimas{
 	position: fixed;
 	bottom: 45px;
-	right: 25px;
+	right: 10px;
+	background-color: white;
+	padding-left: 15px;
+	padding-right: 15px
 }
 
 .aina2 {
@@ -13,7 +20,7 @@
 .forma {
 	position: fixed;
 	top: 100px;
-	right: 0px;
+	right: 10px;
 }
 
 .thisbutton {
@@ -21,6 +28,10 @@
     color: white;
     background-color: red;
 
+}
+
+.barber {
+	margin: 10px;
 }
 
 .carousel {
