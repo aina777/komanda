@@ -103,30 +103,43 @@ border-radius: 50%;
 	height: 200px;
 }
 
-
+.klase3 {
+	
+	background-image: url("https://www.universetoday.com/wp-content/uploads/2009/06/M31_09-01-2011.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
 .klase1 {
 	background-color:yellow;
 	color: white;
-  text-shadow: 4px 4px 8px #000000;
-margin: 0;
-text-align: center; }
-.klase2 {background-image: linear-gradient(yellow, black);
-color: black;
-text-align: left;
-width: 100%;
+  	text-shadow: 4px 4px 8px #000000;
+	margin: 0;
+	text-align: center; 
+}
+.klase2 {
+	background-image: linear-gradient(yellow, black);
+	color: black;
+	text-align: left;
+	width: 100%;
 	height: 100%;  
-  padding: 50px;
-  margin: 0px;}
+  	padding: 50px;
+  	margin: 0px;
+  }
 
-.klase2 img	{height: 200px;
-width: 200px;
-border-radius: 50% }
-.klase2 p {width: 200px;}
-.audio{animation-name: example;
-  animation-duration: 4s;
+.klase2 img	{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%; 
+}
+.klase2 p {
+	width: 200px;
+}
+.audio{
 	position:fixed;
-bottom: 0px;
-right: 0px; }
+	bottom: 0px;
+	right: 0px; 
+}
 
 
 
