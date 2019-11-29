@@ -101,13 +101,18 @@ border-radius: 50%;
 	height: 200px;
 }
 
-.klase3 {
-	
-	background-image: url("https://www.universetoday.com/wp-content/uploads/2009/06/M31_09-01-2011.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  
+.zvaigzdes {
+	display: block;
+	width: 100%;
+	height: 600px;	
+	margin: 0px; 
 }
+
+.saule{
+	width: 450px;
+	height: 250px;
+}
+
 .klase1 {
 	background-color:yellow;
 	color: white;
@@ -123,6 +128,8 @@ border-radius: 50%;
 	height: 100%;  
   	padding: 50px;
   	margin: 0px;
+  	display: flex;
+  	flex-wrap: wrap;
   }
 
 .klase2 img	{

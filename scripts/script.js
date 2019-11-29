@@ -1,6 +1,9 @@
   $(document).ready(function(){
     $('.materialboxed').materialbox();
+    $('.modal').modal();
   });
+
+
 
 
 
@@ -40,19 +43,5 @@ $(document).ready(function(){
  // $('.carousel.carousel-item').carousel({
  //    fullWidth: true
  //  });
-
-var instance = M.Carousel.getInstance(elem);
-
-instance.next();
-instance.prev();
-
-
-
-
-
-  var instance = M.Materialbox.getInstance(elem);
-  instance.open();
-  instance.close();
-
 
 
