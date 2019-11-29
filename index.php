@@ -19,13 +19,54 @@
 			kosmosą</h6>
 			<form action="">  <!-- /action_page.php -->
 				Vardas:<br>
-				<input type="text" name="firstname" value=""><br>
+				<input type="text" name="vardas" value=""><br>
 				Pavardė:<br>
-				<input type="text" name="lastname" value=""><br><br>
+				<input type="text" name="pavarde" value=""><br><br>
 				<input type="submit" value="Patvirtinti">
 			</form>
 		</div>
+<!-- ------- -->
 
+
+	
+
+
+
+	<?php
+
+	$servername = "localhost";
+	$username = "root";
+	$password = "";
+	$dbname = "komanda";
+
+// Create connection
+	$conn = new mysqli($servername, $username, $password, $dbname);
+// Check connection
+	if ($conn->connect_error) {
+		die("Connection failed: " . $conn->connect_error);
+	}
+	$conn->set_charset("utf8");
+
+
+
+
+if (isset($_GET["vardas"]) && isset($_GET["pavarde"] )) {
+	
+
+	 $sql = "INSERT INTO kosmonautai (id, vardas, pavarde)
+	 VALUES (null, '" . $_GET["vardas"] . "', '" . $_GET["pavarde"] . "')";
+
+
+	if ($conn->query($sql) === TRUE) {
+	    // echo "New record created successfully";
+	} else {
+	    // echo "Error: " . $sql . "<br>" . $conn->error;
+	}
+
+}
+	?>
+
+<!-- -------- -->
 		<div class="ivertinimas">
 			<h6 class="aina2">Svetainės įvertinimas</h6>
 			<form action="#">
