@@ -45,12 +45,7 @@
 
 <div class="thetwo">
 
-<p class="barber">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p class="barber">Mars is the fourth planet from the Sun and the second-smallest planet with a thin atmosphere, having the surface features reminiscent both of the impact craters of the Moon, and the valleys, deserts and polar ice caps of Earth. It is the most widely searched planet for life.</p>
 
 <button type="button" class="collapsible">Click me</button>
 <div class="content">
@@ -143,10 +138,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           <span class="card-title">Below is a lie</span>
         </div>
         <div class="card-content orange">
-          <p class="black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat.</p>
+          <p class="black">In 2003, the Hubble Space Telescope snapped this photo of the red planet 11 hours before its closest approach to Earth in 60,000 years. How close? It was a mere 34,648,840 miles (55,760,220 kilometers) away. The next closest approach will be in 2287.
+</p>
         </div>
         <div class="card-action black">
           <a class="collapsible black">This is NOT a link</a>
@@ -167,10 +160,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           <span class="card-title">Hello other World</span>
         </div>
         <div class="card-content purple">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat.</p>
+          <p>THE RED PLANET Mars, named for the Roman god of war. Billions of years ago, the fourth planet from the sun could have been mistaken for Earth’s smaller twin, with liquid water on its surface—and maybe even life.</p>
         </div>
         <div class="card-action red">
           <a target="_blank" class="black-text" href="https://www.nationalgeographic.com/science/space/space-exploration/mars-exploration-article/">This is a link</a>
