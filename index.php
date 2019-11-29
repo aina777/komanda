@@ -158,10 +158,10 @@ if (isset($_GET["vardas"]) && isset($_GET["pavarde"] )) {
 
 	 <ul class="pagination">
 		<li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
-		<li class="active blue"><a href="http://localhost/komanda/index.php">1</a></li>
-		<li class="waves-effect"><a href="http://localhost/komanda/planeta1.php">2</a></li>
-		<li class="waves-effect"><a href="http://localhost/komanda/planetos.php">3</a></li>
-		<li class="waves-effect"><a href="http://localhost/komanda/contacts.php">4</a></li>
+		<li class="active blue"><a href="index.php">1</a></li>
+		<li class="waves-effect"><a href="planeta1.php">2</a></li>
+		<li class="waves-effect"><a href="planetos.php">3</a></li>
+		<li class="waves-effect"><a href="contacts.php">4</a></li>
 		<li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
 	</ul>
 
